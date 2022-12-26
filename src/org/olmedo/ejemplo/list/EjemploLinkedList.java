@@ -1,4 +1,4 @@
-package org.olmedo.ejemplo.set;
+package org.olmedo.ejemplo.list;
 
 import org.olmedo.ejemplo.modelo.Alumno;
 
